@@ -32,4 +32,4 @@ To run this project on your own, follow these steps:
 Feel free to explore the code and adapt it to your own projects. Enjoy your NLP journey!
 
 ## Creator
-Drishya Karki# Encoder-Implementation-BERT
+Drishya Karki
